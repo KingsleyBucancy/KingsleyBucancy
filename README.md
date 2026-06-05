@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kingsley 👋
 
-<!--
-**KingsleyBucancy/KingsleyBucancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps | Cloud | AI Agent | MLOps Engineer
 
-Here are some ideas to get you started:
+I build scalable cloud infrastructure, automate deployments, and develop AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+
+* AWS
+* Kubernetes
+* Terraform
+* Ansible
+* Docker
+* GitHub Actions
+* Python
+* AI Agents
+* MLOps
+
+### 🚀 Featured Projects
+
+* AegisAI
+* AI Content Moderation Platform
+* Drupal Deployment on AWS
+* Terraform Infrastructure Modules
+* CI/CD Automation Pipeline
+
+### 🌱 Currently Learning
+
+* Advanced Kubernetes
+* MLOps
+* AI Agent Systems
+* Platform Engineering
+
+### 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/kingsleynzube

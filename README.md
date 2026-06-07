@@ -1,6 +1,7 @@
 # Hi, I'm Kingsley 👋
 
-## 🚀 DevOps | Cloud | AI Agent | MLOps Engineer
+##🚀 DevOps | Cloud | AI Agent | MLOps
+AWS • Kubernetes • Terraform • Docker • Python
 
 I build scalable cloud infrastructure, automate deployments, and develop AI-powered solutions.
 

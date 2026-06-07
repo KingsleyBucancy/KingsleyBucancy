@@ -36,11 +36,11 @@ LinkedIn: linkedin.com/in/kingsleynzube
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingsleyBucancy&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingsleyBucancy&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingsleyBucancy&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingsleyBucancy&layout=compact&theme=dark)
 
 ## 🚀 Featured Projects
 

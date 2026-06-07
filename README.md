@@ -30,6 +30,11 @@ I build scalable cloud infrastructure, automate deployments, and develop AI-powe
 * MLOps
 * AI Agent Systems
 * Platform Engineering
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingsleyBucancy&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingsleyBucancy&layout=compact)
 
 ### 📫 Connect With Me
 

@@ -1,37 +1,26 @@
 # Hi, I'm Kingsley 👋
 
-🚀 DevOps | Cloud | AI Agent | MLOps Engineer
+## 🚀 DevOps | Cloud | AI Agent | MLOps Engineer
 
-AWS • Kubernetes • Terraform • Docker • Python
+Building cloud infrastructure, CI/CD pipelines, AI agents, and automation solutions.
 
-I build scalable cloud infrastructure, automate deployments, and develop AI-powered solutions.
-
-### 🔧 Skills
+### 🔧 Tech Stack
 
 * AWS
-* Kubernetes
 * Terraform
 * Ansible
 * Docker
+* Kubernetes
 * GitHub Actions
 * Python
-* AI Agents
-* MLOps
 
 ### 🚀 Featured Projects
 
 * AegisAI
-* AI Content Moderation Platform
+* AI Content Moderation Project
 * Drupal Deployment on AWS
-* Terraform Infrastructure Modules
-* CI/CD Automation Pipeline
-
-### 🌱 Currently Learning
-
-* Advanced Kubernetes
-* MLOps
-* AI Agent Systems
-* Platform Engineering
+* Terraform Modules
+* CI/CD Automation
 
 ### 📫 Connect With Me
 
